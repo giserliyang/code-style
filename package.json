@@ -1,0 +1,23 @@
+{
+  "name": "code-style",
+  "version": "1.0.0",
+  "description": "[代码规范 & 详细解释 husky、prettier、eslint、lint-staged 的作用和使用](https://blog.csdn.net/cookcyq__/article/details/125457031)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giserliyang/code-style.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giserliyang/code-style/issues"
+  },
+  "homepage": "https://github.com/giserliyang/code-style#readme",
+  "devDependencies": {
+    "husky": "^8.0.3"
+  }
+}
